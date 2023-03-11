@@ -30,4 +30,14 @@ NOTE: git status    ->   This is our friend. This can be used anytime to see the
         *git push
 
 
+6. GIT PULL
+    *git pull is used to get the code from github
+    *git pull = git fetch + git merge
+        NOTE: if git pull trows error then use:
+        git fetch
+        git merge
+    * NOW THAT WE HAVE OUR LOCAL UPDATED, THEN COMMIT THE CODES AND PUSH ALL TOGETHER
+        *git add .
+        *git commit -m "commiting my codes"
+        *git push
 
