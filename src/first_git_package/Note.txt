@@ -38,6 +38,8 @@ NOTE: git status    ->   This is our friend. This can be used anytime to see the
         git merge
     * NOW THAT WE HAVE OUR LOCAL UPDATED, THEN COMMIT THE CODES AND PUSH ALL TOGETHER
         *git add .
-        *git commit -m "commiting my codes"
+        *git commit -m "committing my codes"
         *git push
+NOTE: PULL BEFORE PUSH
+        *git pull -> git add . -> git commit -m "message" -> git push
 
