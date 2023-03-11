@@ -22,3 +22,12 @@ NOTE: git status    ->   This is our friend. This can be used anytime to see the
         * git push
 
 
+5. ADDING SPECIFIC FILES
+    *Create 2 JAVA classes : MyThirdClass, MyFourthClass
+    *Create a commit with ONLY myFourthClass
+        *git add "src/first_git_package/MyFourthClass.java"
+        *git commit -m "adding fourth class"
+        *git push
+
+
+
