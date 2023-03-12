@@ -82,7 +82,26 @@ NOTE: PULL BEFORE PUSH
 ********************DAY 2*****************************************************
 BRANCHING
 git branch -a -> show me all branch
+git branch ahmet -> create ahmet branch
+git checkout ahmet -> switched to ahmet branch
+created a code : MySixthClass
+create a new commit and push
+    git add .
+    git commit -m "message"
+    git push --set-upstream origin ahmet
+Then codes will be in the remote ahmet branch
 
+***One more side branch flow
+   Create a class " MySeventhClass"
+   create a new commit and push
+     git add .
+     git commit -m "message"
+     git push
+   Then new codes will be in remote ahmet branch
+   Then in github expert or us will do:
+       Pull Request(PR)(US or Expert)
+       Then Code Review(Expert)
+       Then Code Merge(Expert)
 
 
 
