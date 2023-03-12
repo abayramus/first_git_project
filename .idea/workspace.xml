@@ -89,7 +89,6 @@
       <change beforePath="$PROJECT_DIR$/../cucumber-framework-21/src/test/resources/features/day21_room_reservation_with_datatables.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cucumber-framework-21/src/test/resources/features/first_feature_file.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first_git_package/Note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/first_git_package/Note.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jdbc_framework/src/test/java/com/techproed/CreateData4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc_framework/src/test/java/com/techproed/CreateData4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/CreateData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/CreateData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/DBUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/DBUtilsTest.java" afterDir="false" />
@@ -230,5 +229,9 @@
       <screen x="78" y="25" width="2482" height="1415" />
     </state>
     <state x="967" y="521" key="#com.intellij.fileTypes.FileTypeChooser/2560.25.1920.1055/78.25.2482.1415@78.25.2482.1415" timestamp="1678550013771" />
+    <state x="861" y="342" width="838" height="1032" key="search.everywhere.popup" timestamp="1678633387581">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="861" y="342" width="838" height="1032" key="search.everywhere.popup/2560.25.1920.1055/0.25.2560.1415@0.25.2560.1415" timestamp="1678633387581" />
   </component>
 </project>
